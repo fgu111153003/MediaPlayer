@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\App.g.cs
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\MediaPlayer\obj\Debug\MediaPlayer.pdb
